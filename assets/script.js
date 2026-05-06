@@ -29,7 +29,7 @@ function toggleFaq(btn){
 
 // ── FORM SUBMIT ──
 const WEB3FORMS_URL = 'https://api.web3forms.com/submit';
-const WEB3FORMS_KEY = '2c713ffc-e405-4846-a8c0-f32ea78cef4a';
+const WEB3FORMS_KEY = 'f6430b5d-63a6-410c-8183-b328ada27be7';
 
 function handleSubmit(btn){
   const form = btn.closest('.quote-card') || btn.closest('.contact-form');
