@@ -9,8 +9,8 @@ function navHTML() {
 <header>
   <div class="nav-wrap">
     <a href="${pre}index.html" class="logo">
-      <div class="logo-box">A</div>
-      <div>ASSESSMENT<br><small>Powered By The Student Helpline</small></div>
+      <img src="${pre}assets/wht-logo.png" alt="WorkflowHelpTeam" class="logo-img">
+      <div>WorkflowHelpTeam<br><small>Powered By The Student Helpline</small></div>
     </a>
     <nav>
       <a class="nav-link" href="${pre}index.html">Home</a>
@@ -66,7 +66,7 @@ function footerHTML() {
   <div class="footer-inner">
     <div class="footer-grid">
       <div>
-        <div class="footer-logo"><div class="logo-box">A</div><div>ASSESSMENT<br><small style="font-size:.5rem;opacity:.5;font-weight:400">Powered by The Student Helpline</small></div></div>
+        <div class="footer-logo"><img src="${pre}assets/wht-logo.png" alt="WorkflowHelpTeam" class="logo-img"><div>WorkflowHelpTeam<br><small style="font-size:.5rem;opacity:.5;font-weight:400">Powered by The Student Helpline</small></div></div>
         <p class="footer-tagline">Your trusted partner for professional academic assessment help. We help students achieve academic excellence worldwide.</p>
         <div class="social-row"><div class="sicon">f</div><div class="sicon">𝕏</div><div class="sicon">in</div><div class="sicon">ig</div></div>
       </div>

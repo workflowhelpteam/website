@@ -66,8 +66,8 @@ function handleSubmit(btn){
     headers: { 'Accept': 'application/json', 'Content-Type': 'application/json' },
     body: JSON.stringify({
       access_key: WEB3FORMS_KEY,
-      subject: '📩 New Quote Request — AssessmentHelp',
-      from_name: 'AssessmentHelp Website',
+      subject: '📩 New Quote Request — WorkflowHelpTeam',
+      from_name: 'WorkflowHelpTeam Website',
       ...data
     })
   })
